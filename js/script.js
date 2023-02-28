@@ -1,0 +1,1 @@
+window.alert("Vamos estudar programação web fullstack")
